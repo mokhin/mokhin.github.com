@@ -1,0 +1,44 @@
+/* HTML5-specific CSS setup */
+article,aside,figure,footer,header,hgroup,nav,section{display:block}
+
+html{background:white;color:black}
+body{font:18px Georgia,'PT Serif',Candara,'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',serif;padding:0;margin:0 auto;width:43em;line-height:1.75}/*;word-spacing:0.1em}*/
+.a{font:100%/1 'PT Sans',Calibri,Ubuntu,"Arial Unicode MS",Ubuntu,FreeSerif,OpenSymbol,"DejaVu Sans",sans-serif}
+img{width:80%;display:block;margin-left:auto;margin-right:auto}
+p{text-align:justify}
+ul.square{list-style-type:square;}
+a{background:transparent;text-decoration:none}
+a:hover{border-bottom:1px solid}
+a:link{color:#1b67c9}
+/*a:visited{color:darkorchid}*/
+a.simple{border:0 !important;float:left;display:block;margin-right:20px}
+/*h1 a{color:darkblue}*/
+h2,p{margin:0.8em 0;font-weight:normal}
+h2.header{font-style:italic;}/*margin-top:2em;margin-bottom:2em}*/
+h1.header{font-size: 1.5em;margin: 0;margin-bottom: -1em}
+h1,h2{font-size:18px}
+h1{margin-top: 3em}
+header{background:white;color:black;margin:0;padding:0.75em 0}
+nav a:link{color:white}
+nav a:visited{color:white}
+/*h1{text-align:center;margin:0}*/
+h2{text-align:center;font-size:medium;line-height:2.154}
+article header,section header{background:white;margin:0;padding:0;color:black}
+article h1,section h1{text-align:left}/*;margin:1.75em 0;letter-spacing:0}*/
+#arc th,#arc td{list-style:none;margin:0;padding:0}
+#arc th,.r{text-align:right}
+#arc th{padding:0 1.75em 0 0;vertical-align:baseline}
+#arc{border-collapse:collapse}
+footer,.c{text-align:center;clear:both}
+time{float:right;font-size:18px;}/*margin:2px 0 0 0}*/
+.review time{float:none;font-size:inherit;margin:inherit}
+nav ul{margin:0;padding:0 1em 0 0;text-align:center}
+nav li{display:inline;padding-left:1em}
+dt{clear:left;float:left;width:8em}
+dd{margin-left:8em}
+address{font-style:normal}
+address+p{margin-top:0}
+img.me{display:block;float:right;border:1px solid black;margin-left:1.75em}
+.phonebook article p,.phonebook article address{margin:0 0 0 120px}
+.review article p{margin:1.75em 0}
+.sectionSign:before{content:'\00A7'}

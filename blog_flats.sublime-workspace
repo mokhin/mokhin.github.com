@@ -1,0 +1,639 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"U",
+				"Ubuntu"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"is_",
+				"is_use_aos"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"жилищ",
+				"жилищные"
+			],
+			[
+				"zk_rur",
+				"zk_rur_nat_cum"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"is",
+				"is_use_aos"
+			],
+			[
+				"is_us",
+				"is_use_aos"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"dat",
+				"date1"
+			],
+			[
+				"nu",
+				"n_of_full_years"
+			],
+			[
+				"report",
+				"reporter"
+			],
+			[
+				"load",
+				"load_google_spreadsheet"
+			],
+			[
+				"new",
+				"new_moscow"
+			],
+			[
+				"NA",
+				"NA_integer_"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"k",
+				"kladrs"
+			],
+			[
+				"K",
+				"KOD_TE"
+			],
+			[
+				"str",
+				"street_type"
+			],
+			[
+				"rur",
+				"rur_sqm"
+			],
+			[
+				"repo",
+				"report_vvod"
+			],
+			[
+				"xl",
+				"xlab"
+			],
+			[
+				"gde",
+				"gde_kogda"
+			],
+			[
+				"dd",
+				"dd_ts"
+			],
+			[
+				"fo",
+				"forecast"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"set",
+				"Set Syntax: R"
+			],
+			[
+				"setco",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"syna",
+				"Set Syntax: R"
+			],
+			[
+				"swe",
+				"Set Syntax: SWeave"
+			],
+			[
+				"syn s",
+				"Set Syntax: SWeave"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn ",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Hi",
+				"Clipboard History"
+			],
+			[
+				"Cli",
+				"Clipboard History"
+			],
+			[
+				"ma",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"Mar",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"M",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"MarkdownPreview",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"",
+				"Preferences: Settings - User"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Snippet: ",
+				"Snippet: knit"
+			],
+			[
+				"Snippet: kni",
+				"Snippet: knit"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 108.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mikhail/Dropbox/site2/_posts/2012-11-07-ipoteka-kgd-2012.md",
+		"/home/mikhail/Dropbox/site2/css/screen.css",
+		"/home/mikhail/Dropbox/site2/_posts/2012-11-01-sezonnost-prodazh-kvartir-v-kaliningrade.md",
+		"/home/mikhail/Dropbox/site2/_layouts/default.html",
+		"/home/mikhail/Dropbox/site2/index.html",
+		"/home/mikhail/Dropbox/mortgages/kgd.md",
+		"/home/mikhail/Dropbox/mortgages/ipoteka-kgd-2012.md",
+		"/home/mikhail/Dropbox/site2/blog_flats.sublime-project",
+		"/home/mikhail/Dropbox/site2/_posts/2012-11-03-metrazh-moskovskikh-kvartir.md",
+		"/home/mikhail/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/mikhail/Dropbox/site2/_layouts/post.html",
+		"/home/mikhail/Dropbox/site2/_posts/2012-11-05-novyj-rekord-tsen-na-kvartiry-kaliningrada.md",
+		"/home/mikhail/Dropbox/site2/_config.yml",
+		"/home/mikhail/Dropbox/site2/atom.xml",
+		"/usr/lib/ruby/1.9.1/psych.rb",
+		"/home/mikhail/Dropbox/site2/_posts/2012-11-04-metrazh-kaliningradskikh-kvartir.md",
+		"/home/mikhail/Dropbox/site2/_layouts/default-backup.html",
+		"/home/mikhail/Dropbox/site2/index_backup.html",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/kaliningrad-flats.html",
+		"/home/mikhail/Dropbox/site2/css/syntax.css",
+		"/home/mikhail/Dropbox/site2/_site/atom.xml",
+		"/home/mikhail/Dropbox/site2/CNAME",
+		"/home/mikhail/Dropbox/site2/_posts/kaliningrad-kvartiry-ceny-2012.md",
+		"/home/mikhail/Dropbox/site2/index-backup.html",
+		"/home/mikhail/Dropbox/site2/random/canvas_rotated_textfill.html",
+		"/home/mikhail/Dropbox/flatstat.mdown",
+		"/home/mikhail/Dropbox/site2/_posts/2010-12-11-designer-architect-developer.md",
+		"/home/mikhail/Dropbox/site2/_posts/2008-11-03-how-to-meet-your-next-cofounder.textile",
+		"/home/mikhail/Dropbox/site2/_posts/2010-08-23-readme-driven-development.md",
+		"/home/mikhail/Dropbox/site2/_site/index.html",
+		"/home/mikhail/Dropbox/Apps/site44/consumerdemand.site44.com/pgp.txt",
+		"/home/mikhail/Dropbox/Apps/site44/consumerdemand.site44.com/CNAME",
+		"/home/mikhail/Dropbox/site/input/kaliningrad-kvartiry-ceny-2012.md",
+		"/home/mikhail/Dropbox/site/page.html",
+		"/home/mikhail/Dropbox/site/output/blog.2012-11-05.metrazh-moskovskikh-kvartir-2012.html",
+		"/home/mikhail/Dropbox/site/input/layout.md",
+		"/home/mikhail/Dropbox/site/input/index.md",
+		"/home/mikhail/Dropbox/site/input/blog.md",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/shop.html",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/trade.html",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/realty.html",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/index.html",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/moscow-flats.html",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/rss.xml",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/assets/js/applications.js",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/.htaccess",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/shop_2.html",
+		"/home/mikhail/Dropbox/Apps/scriptogram/posts/metrazh-moskovskikh-kvartir-2012.md",
+		"/home/mikhail/Dropbox/Apps/scriptogram/posts/metrazh-kaliningradskikh-kvartir-2012.md",
+		"/home/mikhail/Dropbox/Apps/scriptogram/posts/sezonnost-prodazh-kvartir-v-kaliningrade.md",
+		"/home/mikhail/Downloads/index (1).php",
+		"/home/mikhail/Downloads/_481b1d487e47e2b788273e62bcbfac82.html",
+		"/home/mikhail/Dropbox/Apps/scriptogram/theme7.html",
+		"/home/mikhail/Documents/blog/template.html",
+		"/home/mikhail/Dropbox/Apps/scriptogram/posts/kaliningrad-kvartiry-ceny-2012.md",
+		"/home/mikhail/Dropbox/reports-annotations/realty/sankt-peterburg-flats.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/realty/ekaterinburg-flats.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/realty/moscow-flats.mdown",
+		"/home/mikhail/Dropbox/Apps/scriptogram/ipoteka-kgd-2012.md",
+		"/home/mikhail/Downloads/default (2)/theme6.html",
+		"/home/mikhail/Documents/blog/Заметки о рынках жилой недвижимости и международной торговли.html",
+		"/home/mikhail/Documents/blog/Заметки о рынках жилой недвижимости и международной торговли_files/re_.js",
+		"/home/mikhail/Documents/blog/Заметки о рынках жилой недвижимости и международной торговли_files/ga.js",
+		"/home/mikhail/Downloads/default (2)/theme5.html",
+		"/home/mikhail/Downloads/default (2)/style.css",
+		"/home/mikhail/Downloads/default (2)/about_this_theme.txt",
+		"/home/mikhail/Downloads/default (2)/app.js",
+		"/home/mikhail/Downloads/invoice.tex",
+		"/home/mikhail/Dropbox/Apps/scriptogram/theme4.html",
+		"/home/mikhail/Dropbox/Apps/scriptogram/theme1.html",
+		"/home/mikhail/Dropbox/Apps/scriptogram/theme3.html",
+		"/home/mikhail/Dropbox/Apps/scriptogram/theme4.css",
+		"/home/mikhail/Dropbox/Apps/scriptogram/posts/kaliningrad-flats-prices-september-2012.md",
+		"/home/mikhail/Dropbox/Сентябрь 2012 — новый рекорд цен на квартиры в Кал",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/assets/img/figures/kaliningrad_flats_usd_sqm.svg",
+		"/home/mikhail/Dropbox/reports-annotations/trade/china-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/realty/kaliningrad-flats.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/lithuania-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/russia-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/russia-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/belarus-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/china-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/germany-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/germany-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/czech-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/czech-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/poland-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/poland-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/ukraine-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/trade/ukraine-import.mdown",
+		"/home/mikhail/Downloads/ExactTarget-fuelux-540b55b/sample/data.js",
+		"/home/mikhail/Downloads/ExactTarget-fuelux-540b55b/sample/datasource.js",
+		"/home/mikhail/Downloads/ExactTarget-fuelux-540b55b/index.html",
+		"/home/mikhail/Dropbox/flats/kgd/report.Rnw",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/404.html",
+		"/home/mikhail/Downloads/.htaccess",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/robots.txt",
+		"/home/mikhail/Dropbox/Apps/site44/trade.site44.com/index_misc.text",
+		"/home/mikhail/Dropbox/flats/kgd/report.lot",
+		"/home/mikhail/Dropbox/flats/kgd/src/flats.R",
+		"/home/mikhail/Dropbox/flats/kgd/src/aos.R",
+		"/home/mikhail/Dropbox/eurotour/de.Rnw",
+		"/home/mikhail/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/mikhail/Dropbox/flats/kaliningrad_flats_sales/report.mdown",
+		"/home/mikhail/Dropbox/flats/kaliningrad_flats_sales/misc/не_вошло.Rnw",
+		"/home/mikhail/Dropbox/reports-annotations/russia-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/ukraine-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/lithuania-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/germany-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/belarus-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/poland-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/czech-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/ukraine-import.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/china-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/germany-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/poland-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/russia-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/czech-export.mdown",
+		"/home/mikhail/Dropbox/reports-annotations/china-import.mdown",
+		"/home/mikhail/Dropbox/russia-export-demo.md",
+		"/home/mikhail/Dropbox/poland-export-demo.mdown",
+		"/home/mikhail/Dropbox/czech-export-demo.mdown",
+		"/home/mikhail/Dropbox/ecwid_products.md",
+		"/home/mikhail/Dropbox/kaliningrad-flats-demo.mdown",
+		"/home/mikhail/Dropbox/germany-export-demo.mdown",
+		"/home/mikhail/Dropbox/belarus-import-demo.mdown",
+		"/home/mikhail/Dropbox/ukraine-export-demo.md",
+		"/home/mikhail/Dropbox/russia-import-demo.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/mikhail/Dropbox/Apps/site44/trade.site44.com",
+			"/home/mikhail/Dropbox/reports-annotations/trade"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"character",
+			"hidden",
+			"show",
+			"ul",
+			"color",
+			"black",
+			"heig",
+			"padd",
+			"Главн",
+			"img",
+			"px",
+			"head",
+			"bs-docs-sidebar",
+			"css",
+			"ecwid:mode=product&product",
+			"Россия",
+			"Россия на экспорт",
+			"twitter-bootstrap/2.1.1/css/",
+			"cache",
+			">Отчёт</a>",
+			"Отчёт",
+			"ВЭД",
+			"pdf",
+			"cache",
+			"trade.site44.com",
+			"&ndash;",
+			"&mdash;",
+			"&nbsp;",
+			"date",
+			"pretty",
+			"*Демоверсия:* ",
+			" (для оценки надёжности данных)",
+			"*:",
+			"StaticDataSource",
+			"Торговля",
+			"example-sites",
+			"Наиболее серьёзные падения пришлись",
+			"min",
+			"kaliningrad",
+			"\n ",
+			"russia",
+			"ukraine",
+			"china",
+			"russia",
+			"import",
+			"china",
+			"1.",
+			"Кита",
+			"1",
+			"Международная торговля",
+			"Enabled",
+			"пос",
+			"стар",
+			"Онуфриева",
+			"kali",
+			"kgd",
+			"Кали",
+			"table",
+			"font",
+			"\\ifrooms",
+			",results='hide'",
+			"`",
+			".2;",
+			"al",
+			"conta",
+			"row",
+			"<br><br>",
+			"container",
+			"row",
+			"Китай",
+			"China",
+			"  ",
+			"china",
+			"russia",
+			"row",
+			"container",
+			"lithuania",
+			"Украины",
+			"Украину",
+			"china",
+			"Китай",
+			"class=\"span4\"",
+			"exclude_street",
+			"\\if",
+			"rur_sqm_min_gks_k",
+			"Западный округ\nЦентральный округ .\nЮго-Восточный округ .\nЮго-Западный округ\nСеверный округ .\nВосточный округ\nСеверо-Восточный округ\nСеверо-Западный округ\nЮжный округ",
+			" . .",
+			"Ипо",
+			"theme_flats",
+			"cbr",
+			"Креди",
+			"Ипот",
+			"Ипотка",
+			"70px",
+			"fig.height=3,",
+			"Наибольшей",
+			"цены",
+			"geos",
+			"ipot",
+			"цб",
+			"Продано квартир",
+			"deals_mnt_cap",
+			"deals_mnt_caption",
+			"ifrgs",
+			"Динамика структуры продаж квартир",
+			"floor_highest",
+			"floor_max",
+			"floor_max_qty_share",
+			"floor_max",
+			"floor_highest_qty",
+			"floor_highest",
+			"floor_median_coef",
+			"),",
+			"floor_avg_coef",
+			"floor_average_coef",
+			"Росс",
+			"Окр",
+			"Наиболее серьёзные падения",
+			"abs(",
+			"mortgage",
+			"mortgages",
+			"mortgage_",
+			"p5v7",
+			"gde_kogda",
+			"gde_kogda_za_period",
+			"gde_kogda",
+			"theme_flats",
+			"dd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"!/~/product/id",
+			"twitter-bootstrap/2.2.1/css/",
+			">Полный отчёт</a>",
+			"Торговля",
+			"flats.ru",
+			"—",
+			" ",
+			"Посмотреть демоверсию:  ",
+			".",
+			":*",
+			"noun",
+			"",
+			".2000;",
+			"<br />",
+			"row-fluid",
+			"container-fluid",
+			"",
+			"deals_mnt_cap",
+			"floor_avg_coef",
+			"mtg",
+			"mtgs",
+			"mtg_",
+			"{x}, type='html')",
+			" ",
+			" %",
+			" ",
+			"`",
+			"`r ",
+			"`r",
+			"```",
+			"}",
+			"```{r ",
+			"'",
+			"sqm_group",
+			"n_of_full_years",
+			"plot_fcast",
+			"fcast_data",
+			"mnt_ru_names_xtable",
+			"rur_sqm_yr_gr_fcast",
+			"rur_sqm_yr_gr_fcast_dir",
+			"rur_sqm_year_gr_fcast_dir",
+			"deals_yr",
+			"direct_label_theme",
+			"vlc.desktop",
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true
+}

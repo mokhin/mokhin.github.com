@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <time datetime="{{ page.date }}" pubdate>{{ page.date | date: "%d/%m/%Y" }}</time>
+    <h1><a href="{{ page.url }}" title="{{ page.title }}" rel="bookmark">{{ page.title }}</a></h1>
+  </header>
+  <div class="entry-content">{{ content }}</div>
+</article>
+
+{% if page.previous or page.next %}
+  <!-- <div class="mod-pagenation"> -->
+    {% if page.next %}
+      <!-- <div class="next"> -->
+        « <a href="{{ page.next.url }}">Новая заметка</a>
+      <!-- </div> -->
+    {% endif %}
+    {% if page.previous %}
+      <!-- <div class="prev"> -->
+      <div style="float: right;">
+        <a href="{{ page.previous.url }}">Старая заметка</a> »
+      </div>
+      <!-- </div> -->
+    {% endif %}
+  <!-- </div> -->
+{% endif %}
+
+<h2>Заметки по теме</h2>
+<ul class="square">
+  {% for post in site.related_posts limit:5 %}
+    <li><span>{{ post.date | date: "%d/%m/%Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
