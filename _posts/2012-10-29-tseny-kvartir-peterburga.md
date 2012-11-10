@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Стагнация цен на квартиры Санкт-Петербурга
+title: Стагнация цен квартир Санкт-Петербурга
 published: false
 tags: spe
 categories:
