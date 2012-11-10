@@ -4,22 +4,22 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Заметки о жилищном рынке России</title>
- <link href="http://tradebalance.ru/atom-realty.xml" rel="self"/>
- <link href="http://tradebalance.ru/"/>
+ <title>Квартиры России</title>
+ <link href="http://flatstat.ru/atom.xml" rel="self"/>
+ <link href="http://flatstat.ru/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://tradebalance.ru/</id>
+ <id>http://flatstat.ru/</id>
  <author>
    <name>Мохин Михаил</name>
-   <email>mikhail@mokhin.ru</email>
+   <email></email>
  </author>
 
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://tradebalance.ru{{ post.url }}"/>
+   <link href="http://flatstat.ru{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://tradebalance.ru{{ post.id }}</id>
+   <id>http://flatstat.ru{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}

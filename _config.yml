@@ -1,6 +1,3 @@
 markdown: rdiscount
 pygments: true
 paginate: 5
-safe: true
-source: mokhin
-lsi: false
