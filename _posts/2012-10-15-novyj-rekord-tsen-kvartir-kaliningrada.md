@@ -12,4 +12,4 @@ categories:
 
 ![Средняя цена квартиры на вторичном рынке Калининграда](/images/kgd_rur_sqm.svg)
 
-*Примечание: данные из отчёта [Квартиры Калининграда](http://tradebalance.ru/shop.html#!/~/product/id=13926963).*
+*Примечание: данные из отчёта [Квартиры Калининграда](http://www.tradebalance.ru/shop.html#!/~/product/id=13926963).*
