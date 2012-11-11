@@ -1,6 +1,6 @@
 article,aside,figure,footer,header,hgroup,nav,section{display:block}
 html{background:white;color:black}
-body{font:110% 'PT Serif',Candara,Georgia,'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',serif;padding:0;margin:0 auto;line-height:1.75}/*;width:43em;word-spacing:0.1em}*/
+body{font:110% 'PT Serif',Candara,Georgia,'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',serif;padding:0;margin:0 auto;line-height:1.75}
 .a{font:100%/1 'PT Sans',Calibri,Ubuntu,"Arial Unicode MS",FreeSerif,OpenSymbol,"DejaVu Sans",sans-serif}
 img{width:80%;display:block;margin-left:auto;margin-right:auto}
 p{text-align:justify}
@@ -37,27 +37,8 @@ img.me{display:block;float:right;border:1px solid black;margin-left:1.75em}
 .phonebook article p,.phonebook article address{margin:0 0 0 120px}
 .review article p{margin:1.75em 0}
 .sectionSign:before{content:'\00A7'}
-/*
-* Skeleton V1.2
-* Copyright 2011, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 6/20/2012
-*/
 
-
-/* Table of Contents
-==================================================
-    #Base 800 Grid
-    #Tablet (Portrait)
-    #Mobile (Portrait)
-    #Mobile (Landscape)
-    #Clearing */
-
-
-
-/* #Base 960 Grid
+/* #Base 800 Grid
 ================================================== */
 
     .container                                  { position: relative; width: 800px; margin: 0 auto; padding: 0; }
@@ -107,8 +88,6 @@ img.me{display:block;float:right;border:1px solid black;margin-left:1.75em}
     .container .offset-by-thirteen              { padding-left: 780px; }
     .container .offset-by-fourteen              { padding-left: 840px; }
     .container .offset-by-fifteen               { padding-left: 900px; }
-
-
 
 /* #Tablet (Portrait)
 ================================================== */
@@ -211,7 +190,6 @@ img.me{display:block;float:right;border:1px solid black;margin-left:1.75em}
         .container .offset-by-fifteen { padding-left: 0; }
 
     }
-
 
 /* #Mobile (Landscape)
 ================================================== */
