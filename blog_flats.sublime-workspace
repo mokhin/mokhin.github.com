@@ -139,9 +139,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 285.0,
+		"height": 138.0,
 		"selected_items":
 		[
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
 			[
 				"Package Control: ",
 				"Package Control: Upgrade/Overwrite All Packages"
@@ -272,12 +276,32 @@
 	},
 	"file_history":
 	[
+		"/home/mikhail/Downloads/LAW33387_0_20121121_142333_52627.txt",
+		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/shop.html",
+		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/index.html",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.tex",
+		"/home/mikhail/Dropbox/Сведения об объекте капитального строительства",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.Rmd",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/pandoc_run_command.txt",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.md",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/template.tex",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.html",
+		"/home/mikhail/Dropbox/534.txt",
+		"/home/mikhail/Documents/test.js",
+		"/home/mikhail/Downloads/sparklines/Sparklines.js.html",
+		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-12-24-kvartiry-v-novostrojkax-kaliningrada-2012.md",
+		"/home/mikhail/Downloads/magnet:?xt=urn:btih:43B49D20315361DBF3032686060A39",
+		"/home/mikhail/Dropbox/avito/newflats.R",
+		"/home/mikhail/Dropbox/avito/avito.R",
+		"/home/mikhail/Dropbox/kaggle_dont_get_kicked/report.tex",
+		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-12-17-kvartiry-kaliningrada-2012.md",
+		"/home/mikhail/Dropbox/NHST.mdown",
+		"/home/mikhail/Dropbox/mokhin.github.com/_drafts/2012-12-17-kvartiry-kaliningrada-2012.md",
 		"/home/mikhail/Dropbox/kaliningrad_doma/kaliningrad_doma.Rnw",
 		"/home/mikhail/Dropbox/moldova_yeast_import/report.Rnw",
 		"/home/mikhail/Dropbox/avito_realty.R",
 		"/etc/apt/sources.list",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_template_dom.mdown",
-		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.Rmd",
 		"/home/mikhail/Dropbox/flats/kgd/kaliningrad.Rnw",
 		"/home/mikhail/Dropbox/flats/kgd/src/flats.R",
 		"/media/mikhail/samsung640/backup/projects20120713/trade_balance/russia/import/total/report.Rnw",
@@ -372,7 +396,6 @@
 		"/media/mikhail/mkhl320/proj-work/02. Магазин детских товаров/32",
 		"/media/mikhail/mkhl320/proj-work/02. Магазин детских товаров/21",
 		"/home/mikhail/Dropbox/flats/niz/src/flats.R",
-		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/index.html",
 		"/home/mikhail/Dropbox/flats/niz/report.Rnw",
 		"/home/mikhail/Dropbox/flats/niz/data/streets/streets_p2.csv",
 		"/home/mikhail/Dropbox/flats/niz/data/streets/street_p2.csv",
@@ -380,30 +403,11 @@
 		"/home/mikhail/Downloads/LibO_3.6.3.2_Linux_x86-64_install-deb_en-US/readmes/README_en-US",
 		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/redirects.site44.txt",
 		"/home/mikhail/.cache/.fr-jsM6y6/LibO_3.6.3.2_Linux_x86-64_install-deb_en-US/readmes/README_en-US",
-		"/home/mikhail/Dropbox/flats/niz/data/rosreestr_about.tsv",
-		"/home/mikhail/Dropbox/flats/niz/src/streets.R",
-		"/home/mikhail/Dropbox/flats/niz/data/streets/streets.tsv",
-		"/home/mikhail/Dropbox/flats/niz/src/fix_rayons.R",
-		"/home/mikhail/Dropbox/flats/niz/data/streets/streets.csv",
-		"/home/mikhail/Dropbox/flats/ngr/src/flats.R",
-		"/home/mikhail/Dropbox/flats/ngr/report.Rnw",
-		"/home/mikhail/Dropbox/mokhin.github.com/index.html",
-		"/home/mikhail/Dropbox/qiwi_instruct.html",
-		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-10-01-sezonnost-prodazh-kvartir-v-kaliningrade.md",
-		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-10-08-metrazh-kaliningradskikh-kvartir.md",
-		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-10-29-tseny-kvartir-peterburga.md",
-		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-11-12-defitsit-odnokomnatnykh-v-moskve.md",
-		"/home/mikhail/Dropbox/reports-annotations/trade/czech-import.mdown",
-		"/home/mikhail/Dropbox/reports-annotations/trade/belarus-import.mdown",
-		"/home/mikhail/Dropbox/reports-annotations/trade/china-export.mdown",
-		"/home/mikhail/Dropbox/reports-annotations/trade/china-import.mdown",
-		"/home/mikhail/Dropbox/reports-annotations/trade/czech-export.mdown",
-		"/home/mikhail/Dropbox/reports-annotations/trade/germany-export.mdown",
-		"/home/mikhail/Dropbox/reports-annotations/trade/germany-import.mdown"
+		"/home/mikhail/Dropbox/flats/niz/data/rosreestr_about.tsv"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -420,6 +424,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ec",
+			"ecw",
+			"%",
+			"<sup>",
+			"`",
+			"plot",
+			"25090",
+			" ",
+			"\"",
+			"\\[[0-9]+\\] \"",
+			"avito2nd",
+			"<div class=\\\"t_i_title t_i_title_r",
+			"<div class=\\\"t_i_title t_i_title_r\\\">\\n <h3 class=\\\"t_i_h3\\\">\\n <a name=\\\".+?</span>",
+			"<div class=\\\"t_i_title t_i_title_r\\\">\\n <h3 class=\\\"t_i_h3\\\">\\n <a name=\\\".+?</span>  </p>\\n    <p style=\\\"padding-top: 4px",
+			"</span>  </p>\\n    <p style=\\\"padding-top: 4px",
+			"<div class=\\\"t_i_title t_i_title_r\\\">\\n <h3 class=\\\"t_i_h3\\\">\\n <a name=",
+			"руб.",
+			"р.",
+			"price",
 			"deals_scale",
 			"age_group",
 			"word_after_number",
@@ -528,33 +551,15 @@
 			"#",
 			"**",
 			"#",
-			"**",
-			"#",
-			"##",
-			"&nbsp;",
-			"ddp",
-			"ggplot",
-			"ggplo",
-			"if",
-			"']",
-			"', rayon := '",
-			"flats[street == '",
-			"------------------",
-			"героев",
-			"космо",
-			"Ни",
-			"street",
-			"бизнес",
-			" нед.",
-			"\\n\\n",
-			"\\n\\r"
+			"**"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": true,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"",
 			"wan",
 			"doma_old",
 			"с~",
@@ -712,6 +717,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": false,
-	"side_bar_width": 293.0,
+	"side_bar_width": 195.0,
 	"status_bar_visible": true
 }
