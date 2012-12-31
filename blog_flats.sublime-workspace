@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"row",
+				"rownames"
+			],
+			[
+				"F",
+				"FALSE"
+			],
+			[
 				"doma_",
 				"doma_09_11"
 			],
@@ -135,6 +143,15 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Подготовительный период исчисляется от начала работ на строительной площадке до начала работ по возведению здания и включает организационно-подготовительные мероприятия, внеплощадочные и внутриплощадочные работы.\n\nК организационно-подготовительным мероприятиям, выполняемым в подготовительный период строительства, относятся: обеспечение стройки водой, электроэнергией, теплоснабжением, бытовыми помещениями для рабочих, организация поставок материалов, конструкций, оборудования.\n\nК внеплощадочным подготовительным работам относятся: строительство внешних автомобильных дорог к площадке строительства, железных дорог к прирельсовым складам, канализационных коллекторов с очистными сооружениями, водопроводных сетей с заборными сооружениями, линий электропередачи с трансформаторными подстанциями, линий связи, используемых в процессе строительства объекта.\n\nК внутриплощадочным работам относятся: расчистка и планировка строительной площадки; снос зданий и сооружений, не пригодных для строительных нужд; перекладка существующих инженерных сетей; прокладка коммуникаций электроснабжения, связи, водоснабжения, канализации; устройство складского хозяйства, площадок укрупнительной сборки конструкций и оборудования; возведение временных, а при необходимости, постоянных зданий и сооружений, используемых для нужд строительства, и другие.\n\nподготовительный период\nподземная часть\nнадземная часть\nотделка\n",
+			"settings":
+			{
+				"buffer_size": 1403,
+				"line_ending": "Unix",
+				"name": "Подготовительный период исчисляется от начала рабо"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -276,10 +293,15 @@
 	},
 	"file_history":
 	[
-		"/home/mikhail/Downloads/LAW33387_0_20121121_142333_52627.txt",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.Rnw",
 		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/shop.html",
 		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/index.html",
+		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/noun.html",
+		"/home/mikhail/Dropbox/templates/xelatex_cyrillic_template.tex",
+		"/home/mikhail/Downloads/gnumeric-1.12.0/INSTALL",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.tex",
+		"/home/mikhail/Downloads/LibO-Dev_4.0.0.0.beta2_Linux_x86-64_install-deb_en-US/readmes/README_en-US",
+		"/home/mikhail/Downloads/LAW33387_0_20121121_142333_52627.txt",
 		"/home/mikhail/Dropbox/Сведения об объекте капитального строительства",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.Rmd",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/pandoc_run_command.txt",
@@ -398,12 +420,7 @@
 		"/home/mikhail/Dropbox/flats/niz/src/flats.R",
 		"/home/mikhail/Dropbox/flats/niz/report.Rnw",
 		"/home/mikhail/Dropbox/flats/niz/data/streets/streets_p2.csv",
-		"/home/mikhail/Dropbox/flats/niz/data/streets/street_p2.csv",
-		"/home/mikhail/Dropbox/file.html",
-		"/home/mikhail/Downloads/LibO_3.6.3.2_Linux_x86-64_install-deb_en-US/readmes/README_en-US",
-		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/redirects.site44.txt",
-		"/home/mikhail/.cache/.fr-jsM6y6/LibO_3.6.3.2_Linux_x86-64_install-deb_en-US/readmes/README_en-US",
-		"/home/mikhail/Dropbox/flats/niz/data/rosreestr_about.tsv"
+		"/home/mikhail/Dropbox/flats/niz/data/streets/street_p2.csv"
 	],
 	"find":
 	{
@@ -424,6 +441,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ecw",
+			"item[",
+			"item",
+			"rate",
 			"ec",
 			"ecw",
 			"%",
@@ -547,16 +568,12 @@
 			"сегмент",
 			"**",
 			"#",
-			"**",
-			"#",
-			"**",
-			"#",
 			"**"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": true,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
 			"",
@@ -656,8 +673,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 1403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1403,
+								1403
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Подготовительный период исчисляется от начала рабо",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
