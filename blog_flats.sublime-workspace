@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"publi",
+				"publisher"
+			],
+			[
+				"Калин",
+				"Калининграде"
+			],
+			[
 				"row",
 				"rownames"
 			],
@@ -143,22 +151,17 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "Подготовительный период исчисляется от начала работ на строительной площадке до начала работ по возведению здания и включает организационно-подготовительные мероприятия, внеплощадочные и внутриплощадочные работы.\n\nК организационно-подготовительным мероприятиям, выполняемым в подготовительный период строительства, относятся: обеспечение стройки водой, электроэнергией, теплоснабжением, бытовыми помещениями для рабочих, организация поставок материалов, конструкций, оборудования.\n\nК внеплощадочным подготовительным работам относятся: строительство внешних автомобильных дорог к площадке строительства, железных дорог к прирельсовым складам, канализационных коллекторов с очистными сооружениями, водопроводных сетей с заборными сооружениями, линий электропередачи с трансформаторными подстанциями, линий связи, используемых в процессе строительства объекта.\n\nК внутриплощадочным работам относятся: расчистка и планировка строительной площадки; снос зданий и сооружений, не пригодных для строительных нужд; перекладка существующих инженерных сетей; прокладка коммуникаций электроснабжения, связи, водоснабжения, канализации; устройство складского хозяйства, площадок укрупнительной сборки конструкций и оборудования; возведение временных, а при необходимости, постоянных зданий и сооружений, используемых для нужд строительства, и другие.\n\nподготовительный период\nподземная часть\nнадземная часть\nотделка\n",
-			"settings":
-			{
-				"buffer_size": 1403,
-				"line_ending": "Unix",
-				"name": "Подготовительный период исчисляется от начала рабо"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 138.0,
+		"height": 348.0,
 		"selected_items":
 		[
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
 			[
 				"markd",
 				"Set Syntax: Markdown"
@@ -256,10 +259,6 @@
 				"Preferences: Settings - User"
 			],
 			[
-				"mark",
-				"Set Syntax: Markdown"
-			],
-			[
 				"Snippet: ",
 				"Snippet: knit"
 			],
@@ -276,7 +275,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -293,7 +292,56 @@
 	},
 	"file_history":
 	[
+		"/home/mikhail/Dropbox/kaliningrad_doma/kaliningrad_doma.Rnw",
+		"/home/mikhail/Documents/microdata_zhil_usloviya/data/Вопросник для домохозяйства.txt",
+		"/home/mikhail/Documents/cafe_calyan_bp/text.md",
+		"/home/mikhail/Documents/cafe_calyan_bp/cafe_calyan_bp.Rnw",
+		"/home/mikhail/Documents/Импорт сантехники",
+		"/home/mikhail/Downloads/CHANGES",
+		"/home/mikhail/Downloads/Trade_Map_-_List_of_supplying_markets_for_a_product_imported_by_Russian_Federation.txt",
+		"/home/mikhail/Dropbox/investments_classification.md",
+		"/home/mikhail/Documents/cafe_calyan_bp/cafe_calyan_bp.tex",
+		"/home/mikhail/Dropbox/bp_kalyan.md",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.Rnw",
+		"/home/mikhail/Dropbox/cafe_calyan_bp/text.md",
+		"/home/mikhail/Documents/minimal.brew",
+		"/home/mikhail/Documents/tutorial.tjp",
+		"/home/mikhail/Dropbox/cafe_calyan_bp/cafe_calyan_bp.Rnw",
+		"/home/mikhail/Dropbox/cafe_calyan_bp/newkaliningrad_cafe_calyan.csv",
+		"/home/mikhail/Dropbox/cafe_calyan_bp/file.tex",
+		"/home/mikhail/Dropbox/hs_moldova.txt",
+		"/home/mikhail/Dropbox/hs_only_moldova.txt",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_template_unido.mdown",
+		"/home/mikhail/Dropbox/cafe_calyan_bp/wordstat_cafe_kaliningrad.csv",
+		"/home/mikhail/Dropbox/cafe_calyan_bp/wordstat_kalyan_kaliningrad.csv",
+		"/home/mikhail/Dropbox/cafe_calyan_bp/wordstat_kalyannayo_kaliningrad_weekly.csv",
+		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_template_shop.mdown",
+		"/home/mikhail/Dropbox/kaliningrad_doma/kaliningrad_doma.tex",
+		"/home/mikhail/Dropbox/wordstat_novostrojki_saratov.txt",
+		"/home/mikhail/Dropbox/wordstat_novostojki_kaliningrad.txt",
+		"/home/mikhail/Dropbox/wordstat_novostrojki_smolensk.txt",
+		"/home/mikhail/Dropbox/wordstat_novostrojki_moskva.txt",
+		"/home/mikhail/Dropbox/wordstat_kvartiry_kaliningrad.txt",
+		"/etc/ddclient.conf",
+		"/home/mikhail/Documents/world_trade.txt",
+		"/home/mikhail/Dropbox/kaliningrad_doma/kaliningrad_doma_old.Rnw",
+		"/home/mikhail/Dropbox/realty_growth_type/realty_growth_type.R",
+		"/home/mikhail/Dropbox/realty_growth_type/Наиболее благоприятно для покупателей ситуация раз",
+		"/home/mikhail/Downloads/2 - 3 - Lecture 2 - Logical Combinators (27-55).txt",
+		"/home/mikhail/Dropbox/kaliningrad_doma/data/kaig/vvod_09_11.tsv",
+		"/home/mikhail/Dropbox/kaliningrad_doma/data/kaig/vvod_12_ko.tsv",
+		"/home/mikhail/Dropbox/flats/kgd/data/streets/leningradskiy_rayon.csv",
+		"/home/mikhail/Dropbox/flats/kgd/data/streets/moskovskiy_rayon.csv",
+		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-12-10-rost-vvoda-i-tsen-po-regionam-2011.md",
+		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-12-10-regions-housing-growth.md",
+		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2013-01-01-regions-housing-growth.md",
+		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-10-01-sezonnost-prodazh-kvartir-v-kaliningrade.md",
+		"/home/mikhail/Dropbox/mokhin.github.com/_drafts/2013-01-01-regions-housing-growth.md",
+		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-10-29-tseny-kvartir-peterburga.md",
+		"/home/mikhail/Dropbox/mokhin.github.com/_drafts/2012-11-19-metrazh-kvartir-peterburga.md",
+		"/home/mikhail/Dropbox/mokhin.github.com/_drafts/2012-11-07-ipoteka-kgd-2012.md",
+		"/home/mikhail/Dropbox/Подготовительный период исчисляется от начала рабо",
+		"/home/mikhail/Dropbox/Сведения об объекте капитального строительства",
 		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/shop.html",
 		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/index.html",
 		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/noun.html",
@@ -302,7 +350,6 @@
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.tex",
 		"/home/mikhail/Downloads/LibO-Dev_4.0.0.0.beta2_Linux_x86-64_install-deb_en-US/readmes/README_en-US",
 		"/home/mikhail/Downloads/LAW33387_0_20121121_142333_52627.txt",
-		"/home/mikhail/Dropbox/Сведения об объекте капитального строительства",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.Rmd",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/pandoc_run_command.txt",
 		"/home/mikhail/Dropbox/templates/bp_templates_mdown/bp_dom.md",
@@ -319,7 +366,6 @@
 		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-12-17-kvartiry-kaliningrada-2012.md",
 		"/home/mikhail/Dropbox/NHST.mdown",
 		"/home/mikhail/Dropbox/mokhin.github.com/_drafts/2012-12-17-kvartiry-kaliningrada-2012.md",
-		"/home/mikhail/Dropbox/kaliningrad_doma/kaliningrad_doma.Rnw",
 		"/home/mikhail/Dropbox/moldova_yeast_import/report.Rnw",
 		"/home/mikhail/Dropbox/avito_realty.R",
 		"/etc/apt/sources.list",
@@ -330,7 +376,6 @@
 		"/home/mikhail/Dropbox/moldova_import.mdown",
 		"/home/mikhail/Dropbox/moldova_import_draft.mdown",
 		"/media/mikhail/samsung640/backup/projects20120713/trade_balance/russia/import/live_animals/live_animals_import_to_russia.Rnw",
-		"/home/mikhail/Dropbox/kaliningrad_doma/kaliningrad_doma.tex",
 		"/home/mikhail/Dropbox/projects_outline.ctx_txt/NewFlatsKaliningrad--Prices.txt",
 		"/home/mikhail/Dropbox/kaliningrad_doma/misc.Rnw",
 		"/home/mikhail/Dropbox/kaliningrad_doma/VvodZhilyaKaliningrad2009_2011.tsv",
@@ -374,53 +419,7 @@
 		"/home/mikhail/Dropbox/flats/reports-annotations/realty/kazan-flats.mdown",
 		"/home/mikhail/Dropbox/flats/reports-annotations/realty/kaliningrad-flats.mdown",
 		"/home/mikhail/Dropbox/flats/kzn/src/flats.R",
-		"/home/mikhail/Dropbox/flats/mow/report.tex",
-		"/home/mikhail/Dropbox/flats/mow/report_moscow.Rnw",
-		"/home/mikhail/Dropbox/flats/mow/src/flats.R",
-		"/home/mikhail/Dropbox/flats/kzn/data/streets/streets_rayons_manualy.csv",
-		"/home/mikhail/Dropbox/flats/kzn/src/fix_rayons.R",
-		"/home/mikhail/Documents/[08-09] Светлогорск-1 и Миклухо-Маклай/Документооборот/Карамышев.txt",
-		"/home/mikhail/Dropbox/households/src/model.R",
-		"/home/mikhail/Dropbox/households/data/classifier.tsv",
-		"/home/mikhail/Dropbox/households/reports/prod_table.tex",
-		"/home/mikhail/Dropbox/pismo_v_megaresearch_short.mdown",
-		"/home/mikhail/Documents/terminal_commands.md",
-		"/home/mikhail/Dropbox/pismo_v_megaresearch.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/realty/moscow-flats.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/realty/sankt-peterburg-flats.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/realty/nizhnij-novgorod-flats.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/realty/ekaterinburg-flats.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/germany-export.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/ukraine-export.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/russia-import.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/russia-export.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/poland-import.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/poland-export.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/lithuania-import.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/germany-import.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/czech-import.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/czech-export.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/china-import.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/china-export.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/ukraine-import.mdown",
-		"/home/mikhail/Dropbox/flats/reports-annotations/trade/belarus-import.mdown",
-		"/home/mikhail/Dropbox/Apps/site44/www.tradebalance.ru/test.html",
-		"/home/mikhail/Dropbox/mokhin.github.com/_layouts/default.html",
-		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-11-19-dostypnost-kvartir-v-moskve.md",
-		"/home/mikhail/Dropbox/mokhin.github.com/_posts/2012-10-22-metrazh-moskovskikh-kvartir.md",
-		"/home/mikhail/Dropbox/mokhin.github.com/blog_flats.sublime-project",
-		"/home/mikhail/Dropbox/flats/mow/data/streets_not_found_in_kladr.csv",
-		"/home/mikhail/Dropbox/flats/mow/src/fix_rayons.R",
-		"/etc/resolv.conf",
-		"/home/mikhail/Dropbox/exrates/exrates.R",
-		"/home/mikhail/Dropbox/prices/realty/indices_yr.R",
-		"/home/mikhail/Dropbox/bp_shop.mdown",
-		"/media/mikhail/mkhl320/proj-work/02. Магазин детских товаров/32",
-		"/media/mikhail/mkhl320/proj-work/02. Магазин детских товаров/21",
-		"/home/mikhail/Dropbox/flats/niz/src/flats.R",
-		"/home/mikhail/Dropbox/flats/niz/report.Rnw",
-		"/home/mikhail/Dropbox/flats/niz/data/streets/streets_p2.csv",
-		"/home/mikhail/Dropbox/flats/niz/data/streets/street_p2.csv"
+		"/home/mikhail/Dropbox/flats/mow/report.tex"
 	],
 	"find":
 	{
@@ -441,6 +440,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"	",
+			",",
+			"	",
+			",",
+			"»",
+			"«",
+			" ",
+			"	\\n",
+			"	",
+			" ",
+			"  ",
+			"11 ",
+			".",
+			"kgd_map_func",
+			"lon",
+			"lot",
+			" ([а-яА-Я]{1,2}) ",
 			"ecw",
 			"item[",
 			"item",
@@ -551,31 +567,23 @@
 			"facet_wrap( ",
 			" на ",
 			" по ",
-			"~",
-			"_level",
-			"_share",
-			"_level",
-			"load",
-			"Самый дорогой квадратный метр был в~сделках с~квартирами на~улицах:",
-			"_level",
-			"ggplot",
-			"if (demo)",
-			"load_google_spreadsheet",
-			"-",
-			"\n-",
-			"•",
-			"Nest",
-			"сегмент",
-			"**",
-			"#",
-			"**"
+			"~"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": true,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			",",
+			".",
+			",",
+			".",
+			"",
+			",",
+			"",
+			"kgd_map",
+			" \\1 ",
 			"",
 			"wan",
 			"doma_old",
@@ -673,35 +681,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"settings":
-					{
-						"buffer_size": 1403,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1403,
-								1403
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Подготовительный период исчисляется от начала рабо",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -738,7 +719,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 64.0
+		"height": 92.0
 	},
 	"save_all_on_build": true,
 	"select_file":
